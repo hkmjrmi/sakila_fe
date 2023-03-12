@@ -1,0 +1,10 @@
+#myform {
+    width: 500px;
+    background:#eee;
+    position: absolute;
+    top: 80px;
+    min-height: 400px;
+    border: 2px solid #999;
+    box-shadow: 4px 3px 8px 1px #969696;
+    padding: 10px;
+}
